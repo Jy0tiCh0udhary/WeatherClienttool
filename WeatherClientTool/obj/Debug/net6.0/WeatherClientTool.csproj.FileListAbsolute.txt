@@ -1,0 +1,17 @@
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\bin\Debug\net6.0\WeatherClientTool.exe
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\bin\Debug\net6.0\WeatherClientTool.deps.json
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\bin\Debug\net6.0\WeatherClientTool.runtimeconfig.json
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\bin\Debug\net6.0\WeatherClientTool.dll
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\bin\Debug\net6.0\WeatherClientTool.pdb
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.csproj.AssemblyReference.cache
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.AssemblyInfoInputs.cache
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.AssemblyInfo.cs
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.csproj.CoreCompileInputs.cache
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.dll
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\refint\WeatherClientTool.dll
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.pdb
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.genruntimeconfig.cache
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\ref\WeatherClientTool.dll
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Pwc_Assignment\WeatherClientTool\WeatherClientTool\obj\Debug\net6.0\WeatherClientTool.csproj.CopyComplete

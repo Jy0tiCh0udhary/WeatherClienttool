@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xe4+uGH28Q3ZtdpJKkAfVfV5eRmJUDK5IljikD0vkL4YYZOgmfBBxIA+LVF3monsjXge+tAZqwgi+kSNYbowiA==",
+  "success": true,
+  "projectFilePath": "C:\\Pwc_Assignment\\WeatherClientTool\\WeatherClientTool\\WeatherClientTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jyoti Choudhary\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
